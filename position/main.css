@@ -1,0 +1,40 @@
+.container{
+    width: 200px;
+    height:100px;
+    background-color:#00ffff;
+    margin-block:20px;
+  /* default margin is static */
+    position: relative;
+    top:50px;
+    left: 20px;
+
+}
+.stick{
+    position: sticky;
+    margin-top:0px;
+}
+.container2{
+    width:200px;
+    height:200px;
+    background-color: blueviolet;
+    margin-block:20px;
+    
+}
+.container3{
+    width:200px;
+    height:200px;
+    background-color: rgb(124, 114, 133);
+    margin-block:20px;
+    position:relative;
+
+    
+}
+h2{
+    position: relative;
+    left:60px;
+}
+h3{
+    position: absolute;
+    top:165px;
+
+}
