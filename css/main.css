@@ -1,0 +1,49 @@
+*{
+    margin:0;
+}
+.header{
+    background-color: black;
+    color:white;
+    padding:20px;
+    text-align: center;
+}
+h2,li{
+    display: inline;
+   
+}
+ul{
+    padding:9px;
+}
+.card1{
+    border-radius: 2px;
+    border-color: black;
+    border-style: solid;
+    width: 220px;
+    display:inline-block;
+    padding: 20px;
+    margin: 15px;
+}
+.center{
+    text-align: center;
+    padding-top: 40px;
+}
+button{
+    padding: 9px;
+    margin:20px;
+    color:white;
+    background-color: black;
+}
+.bottom{
+    background-color: black;
+    display: block;
+    color: aliceblue;
+  text-align: center;
+  padding:30px;
+}
+label{
+    display: block;
+    padding: 9px;
+}
+
+
+
